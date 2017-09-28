@@ -157,7 +157,7 @@ hr.small {
   background-color: #808080;
   background-position: center center;
   background-attachment: scroll;
-  margin-bottom: 50px;
+  margin-bottom: 0px;
 }
 .intro-header .site-heading,
 .intro-header .post-heading,
